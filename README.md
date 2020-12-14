@@ -1,6 +1,8 @@
 # Engineering Take-Home Challenge - 12/2020
 Congratulations on making it to the final round of interviews for our engineering position at
-American Efficient! In order for us to get a better sense of your programming ability,
+American Efficient!
+
+In order for us to get a better sense of your programming ability,
 and to give us a structured task to discuss during the "in-person" interview on January 8th, we
 would like you to complete this short take-home challenge. We expect it to take between 4 and 6 hours
 to complete. You may spend more time than that, but please don't go too much over that limit as this
