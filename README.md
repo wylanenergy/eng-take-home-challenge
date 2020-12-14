@@ -161,3 +161,9 @@ there are more products available (which they should be able to access with the 
 
 ## What should I do about missing data?
 Please use your best judgment about how to report results with missing data.
+
+## What should I do if I have any other questions?
+Please email
+[kristen@modern.energy](mailto:kristen@modern.energy) and
+[shayne@americanefficient.com](mailto:shayne@americanefficient.com). We will do our best to answer
+your question and also share the question and answer (anonymously) with the other applicants.
