@@ -7,6 +7,7 @@ and to give us a structured task to discuss during the "in-person" interview on 
 would like you to complete this short take-home challenge. We expect it to take between 4 and 6 hours
 to complete. You may spend more time than that, but please don't go too much over that limit as this
 is intended to be a measure of your programming ability, not how much free time you have. :smile:
+Partial solutions are acceptable.
 
 ## Task Description
 
@@ -94,7 +95,7 @@ where the `scaling_factor` is based on the `size_inches` feature as shown here
 | >= 60 in |   0.65 |
 
 ### Uninterruptible Power Supplies
-The delta watts for an uninterruptible power supply (UPS) is its total input power at 0 load
+The delta watts for an uninterruptible power supply (UPS) is its total input power at 0 load,
 times an average of its efficiency at 0%, 25%, 50%, 75%, and 100% load, weighted by how much time
 typical UPS devices spend at each load.
 ```python
@@ -144,7 +145,8 @@ Python library. We recognize that some of this could be done efficiently with `p
 to see a more object oriented approach.
 
 ## How do I submit my results?
-Please create a private repository on Github with your solution and email a link to the repo to
+You can either create a private repository on Github with your solution and email a link or send
+a zip of the solution to
 [kristen@modern.energy](mailto:kristen@modern.energy) and
 [shayne@americanefficient.com](mailto:shayne@americanefficient.com)
 
